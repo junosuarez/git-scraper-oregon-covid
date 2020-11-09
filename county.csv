@@ -1,0 +1,260 @@
+﻿County,Measure Names,Measure Values
+Yamhill,"Tests per 100,000",22017.193992
+Wheeler,"Tests per 100,000",13073.713491
+Washington,"Tests per 100,000",20613.455927
+Wasco,"Tests per 100,000",24154.642582
+Wallowa,"Tests per 100,000",19046.287233
+Union,"Tests per 100,000",22238.366678
+Umatilla,"Tests per 100,000",24056.185313
+Tillamook,"Tests per 100,000",14699.777333
+Sherman,"Tests per 100,000",24661.399549
+Polk,"Tests per 100,000",16445.028514
+Multnomah,"Tests per 100,000",24072.505568
+Morrow,"Tests per 100,000",21524.875818
+Marion,"Tests per 100,000",20455.715276
+Malheur,"Tests per 100,000",26927.039431
+Linn,"Tests per 100,000",18274.488732
+Lincoln,"Tests per 100,000",22130.128471
+Lane,"Tests per 100,000",23282.367194
+Lake,"Tests per 100,000",14527.904962
+Klamath,"Tests per 100,000",18639.643339
+Josephine,"Tests per 100,000",18364.05344
+Jefferson,"Tests per 100,000",27548.024495
+Jackson,"Tests per 100,000",20960.730263
+Hood River,"Tests per 100,000",24955.842525
+Harney,"Tests per 100,000",14755.434783
+Grant,"Tests per 100,000",15869.565217
+Gilliam,"Tests per 100,000",20241.084882
+Douglas,"Tests per 100,000",14802.540735
+Deschutes,"Tests per 100,000",22026.828877
+Curry,"Tests per 100,000",11134.782609
+Crook,"Tests per 100,000",14931.103622
+Coos,"Tests per 100,000",15443.686007
+Columbia,"Tests per 100,000",17883.481525
+Clatsop,"Tests per 100,000",19012.508899
+Clackamas,"Tests per 100,000",19861.31842
+Benton,"Tests per 100,000",21346.135504
+Baker,"Tests per 100,000",15334.760376
+All,"Tests per 100,000",21129.167606
+Yamhill,Total Tests,23792
+Wheeler,Total Tests,188
+Washington,Total Tests,126445
+Wasco,Total Tests,6579
+Wallowa,Total Tests,1362
+Union,Total Tests,5969
+Umatilla,Total Tests,19524
+Tillamook,Total Tests,3895
+Sherman,Total Tests,437
+Polk,Total Tests,13640
+Multnomah,Total Tests,197811
+Morrow,Total Tests,2730
+Marion,Total Tests,71137
+Malheur,Total Tests,8625
+Linn,Total Tests,23126
+Lincoln,Total Tests,10680
+Lane,Total Tests,88212
+Lake,Total Tests,1174
+Klamath,Total Tests,12710
+Josephine,Total Tests,15931
+Jefferson,Total Tests,6568
+Jackson,Total Tests,46384
+Hood River,Total Tests,6358
+Harney,Total Tests,1086
+Grant,Total Tests,1168
+Gilliam,Total Tests,403
+Douglas,Total Tests,16616
+Deschutes,Total Tests,42512
+Curry,Total Tests,2561
+Crook,Total Tests,3500
+Coos,Total Tests,9774
+Columbia,Total Tests,9433
+Clatsop,Total Tests,7478
+Clackamas,Total Tests,84096
+Benton,Total Tests,20142
+Baker,Total Tests,2579
+All,Total Tests,895115
+Yamhill,Negative Tests,22710
+Wheeler,Negative Tests,187
+Washington,Negative Tests,120036
+Wasco,Negative Tests,6241
+Wallowa,Negative Tests,1301
+Union,Negative Tests,5481
+Umatilla,Negative Tests,16118
+Tillamook,Negative Tests,3824
+Sherman,Negative Tests,417
+Polk,Negative Tests,12922
+Multnomah,Negative Tests,187514
+Morrow,Negative Tests,2182
+Marion,Negative Tests,64843
+Malheur,Negative Tests,6629
+Linn,Negative Tests,22236
+Lincoln,Negative Tests,10177
+Lane,Negative Tests,85655
+Lake,Negative Tests,1133
+Klamath,Negative Tests,12263
+Josephine,Negative Tests,15673
+Jefferson,Negative Tests,5993
+Jackson,Negative Tests,44324
+Hood River,Negative Tests,6090
+Harney,Negative Tests,1043
+Grant,Negative Tests,1140
+Gilliam,Negative Tests,386
+Douglas,Negative Tests,16231
+Deschutes,Negative Tests,41195
+Curry,Negative Tests,2490
+Crook,Negative Tests,3395
+Coos,Negative Tests,9563
+Columbia,Negative Tests,9163
+Clatsop,Negative Tests,7211
+Clackamas,Negative Tests,80604
+Benton,Negative Tests,19687
+Baker,Negative Tests,2447
+All,Negative Tests,848994
+Yamhill,Positive Tests,1082
+Wheeler,Positive Tests,1
+Washington,Positive Tests,6409
+Wasco,Positive Tests,338
+Wallowa,Positive Tests,61
+Union,Positive Tests,488
+Umatilla,Positive Tests,3406
+Tillamook,Positive Tests,71
+Sherman,Positive Tests,20
+Polk,Positive Tests,718
+Multnomah,Positive Tests,10297
+Morrow,Positive Tests,548
+Marion,Positive Tests,6294
+Malheur,Positive Tests,1996
+Linn,Positive Tests,890
+Lincoln,Positive Tests,503
+Lane,Positive Tests,2557
+Lake,Positive Tests,41
+Klamath,Positive Tests,447
+Josephine,Positive Tests,258
+Jefferson,Positive Tests,575
+Jackson,Positive Tests,2060
+Hood River,Positive Tests,268
+Harney,Positive Tests,43
+Grant,Positive Tests,28
+Gilliam,Positive Tests,17
+Douglas,Positive Tests,385
+Deschutes,Positive Tests,1317
+Curry,Positive Tests,71
+Crook,Positive Tests,105
+Coos,Positive Tests,211
+Columbia,Positive Tests,270
+Clatsop,Positive Tests,267
+Clackamas,Positive Tests,3492
+Benton,Positive Tests,455
+Baker,Positive Tests,132
+All,Positive Tests,46121
+Yamhill,Deaths,15
+Wheeler,Deaths,
+Washington,Deaths,83
+Wasco,Deaths,17
+Wallowa,Deaths,2
+Union,Deaths,2
+Umatilla,Deaths,45
+Tillamook,Deaths,
+Sherman,Deaths,
+Polk,Deaths,15
+Multnomah,Deaths,179
+Morrow,Deaths,7
+Marion,Deaths,116
+Malheur,Deaths,38
+Linn,Deaths,17
+Lincoln,Deaths,13
+Lane,Deaths,28
+Lake,Deaths,
+Klamath,Deaths,3
+Josephine,Deaths,4
+Jefferson,Deaths,11
+Jackson,Deaths,8
+Hood River,Deaths,1
+Harney,Deaths,
+Grant,Deaths,
+Gilliam,Deaths,
+Douglas,Deaths,10
+Deschutes,Deaths,13
+Curry,Deaths,2
+Crook,Deaths,5
+Coos,Deaths,1
+Columbia,Deaths,2
+Clatsop,Deaths,
+Clackamas,Deaths,70
+Benton,Deaths,6
+Baker,Deaths,3
+All,Deaths,716
+Yamhill,Case Count,1103
+Wheeler,Case Count,1
+Washington,Case Count,6663
+Wasco,Case Count,375
+Wallowa,Case Count,62
+Union,Case Count,521
+Umatilla,Case Count,3593
+Tillamook,Case Count,82
+Sherman,Case Count,23
+Polk,Case Count,755
+Multnomah,Case Count,10705
+Morrow,Case Count,569
+Marion,Case Count,6610
+Malheur,Case Count,2052
+Linn,Case Count,969
+Lincoln,Case Count,526
+Lane,Case Count,2728
+Lake,Case Count,49
+Klamath,Case Count,453
+Josephine,Case Count,295
+Jefferson,Case Count,629
+Jackson,Case Count,2197
+Hood River,Case Count,296
+Harney,Case Count,45
+Grant,Case Count,32
+Gilliam,Case Count,17
+Douglas,Case Count,434
+Deschutes,Case Count,1408
+Curry,Case Count,72
+Crook,Case Count,136
+Coos,Case Count,282
+Columbia,Case Count,301
+Clatsop,Case Count,278
+Clackamas,Case Count,3670
+Benton,Case Count,501
+Baker,Case Count,176
+All,Case Count,48608
+Yamhill,"Cases per 100,000",1020.719779
+Wheeler,"Cases per 100,000",69.541029
+Washington,"Cases per 100,000",1086.222918
+Wasco,"Cases per 100,000",1376.803613
+Wallowa,"Cases per 100,000",867.011607
+Union,"Cases per 100,000",1941.060318
+Umatilla,"Cases per 100,000",4427.057664
+Tillamook,"Cases per 100,000",309.468996
+Sherman,"Cases per 100,000",1297.968397
+Polk,"Cases per 100,000",910.263675
+Multnomah,"Cases per 100,000",1302.739343
+Morrow,"Cases per 100,000",4486.320271
+Marion,"Cases per 100,000",1900.730674
+Malheur,"Cases per 100,000",6406.293903
+Linn,"Cases per 100,000",765.717356
+Lincoln,"Cases per 100,000",1089.929548
+Lane,"Cases per 100,000",720.018792
+Lake,"Cases per 100,000",606.360599
+Klamath,"Cases per 100,000",664.339767
+Josephine,"Cases per 100,000",340.053717
+Jefferson,"Cases per 100,000",2638.201493
+Jackson,"Cases per 100,000",992.814858
+Hood River,"Cases per 100,000",1161.832241
+Harney,"Cases per 100,000",611.413043
+Grant,"Cases per 100,000",434.782609
+Gilliam,"Cases per 100,000",853.84229
+Douglas,"Cases per 100,000",386.633527
+Deschutes,"Cases per 100,000",729.529899
+Curry,"Cases per 100,000",313.043478
+Crook,"Cases per 100,000",580.180026
+Coos,"Cases per 100,000",445.582101
+Columbia,"Cases per 100,000",570.648568
+Clatsop,"Cases per 100,000",706.80362
+Clackamas,"Cases per 100,000",866.759877
+Benton,"Cases per 100,000",530.950943
+Baker,"Cases per 100,000",1046.4978
+All,"Cases per 100,000",1147.390647
