@@ -19,7 +19,7 @@ jobs:
           fetch-depth: 0
       - name: Fetch latest data
         run: |-
-          curl https://public.tableau.com/vizql/w/OregonCOVID-19TestingandOutcomesbyCounty-SummaryTable/v/CasesandTestingbyCountySummaryTable/vudcsv/sessions/C449C397902C4606A685A58336C138CC-0:0/views/5983853632179391212_17505078358919484414?summary=true > county.csv
+          curl https://public.tableau.com/views/OregonCOVID-19TestingandOutcomesbyCounty-SummaryTable/CasesandTestingbyCountySummaryTable.csv?:showVizHome=no > county.csv
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
