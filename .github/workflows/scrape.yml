@@ -3,7 +3,7 @@ name: Scrape latest data
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
   schedule:
     # once an hour at 5 minutes past
