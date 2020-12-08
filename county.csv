@@ -1,115 +1,112 @@
 County,Measure Names,Measure Values
-All,"Cases per 100,000","2,025.023634"
-All,Case Count,"85,788"
-All,Deaths,"1,045"
-Baker,"Cases per 100,000","1,968.129385"
-Baker,Case Count,331
+All,"Cases per 100,000","2,055.568473"
+All,Case Count,"87,082"
+All,Deaths,"1,080"
+Baker,"Cases per 100,000","1,997.859436"
+Baker,Case Count,336
 Baker,Deaths,4
-Benton,"Cases per 100,000",972.88017
-Benton,Case Count,918
+Benton,"Cases per 100,000",993.016035
+Benton,Case Count,937
 Benton,Deaths,8
-Clackamas,"Cases per 100,000","1,749.815784"
-Clackamas,Case Count,"7,409"
-Clackamas,Deaths,87
-Clatsop,"Cases per 100,000","1,042.408217"
-Clatsop,Case Count,410
+Clackamas,"Cases per 100,000","1,777.448183"
+Clackamas,Case Count,"7,526"
+Clackamas,Deaths,88
+Clatsop,"Cases per 100,000","1,072.917726"
+Clatsop,Case Count,422
 Clatsop,Deaths,
-Columbia,"Cases per 100,000","1,131.817923"
-Columbia,Case Count,597
-Columbia,Deaths,6
-Coos,"Cases per 100,000",826.380988
-Coos,Case Count,523
+Columbia,"Cases per 100,000","1,150.776347"
+Columbia,Case Count,607
+Columbia,Deaths,7
+Coos,"Cases per 100,000",837.441537
+Coos,Case Count,530
 Coos,Deaths,4
-Crook,"Cases per 100,000","1,254.212704"
-Crook,Case Count,294
+Crook,"Cases per 100,000","1,296.873"
+Crook,Case Count,304
 Crook,Deaths,6
-Curry,"Cases per 100,000",743.478261
-Curry,Case Count,171
+Curry,"Cases per 100,000",769.565217
+Curry,Case Count,177
 Curry,Deaths,2
-Deschutes,"Cases per 100,000","1,495.32904"
-Deschutes,Case Count,"2,886"
+Deschutes,"Cases per 100,000","1,512.427397"
+Deschutes,Case Count,"2,919"
 Deschutes,Deaths,15
-Douglas,"Cases per 100,000",962.129513
-Douglas,Case Count,"1,080"
-Douglas,Deaths,24
-Gilliam,"Cases per 100,000","1,205.42441"
-Gilliam,Case Count,24
+Douglas,"Cases per 100,000",984.40103
+Douglas,Case Count,"1,105"
+Douglas,Deaths,25
+Gilliam,"Cases per 100,000","1,255.650427"
+Gilliam,Case Count,25
 Gilliam,Deaths,1
-Grant,"Cases per 100,000","1,942.934783"
-Grant,Case Count,143
+Grant,"Cases per 100,000","2,038.043478"
+Grant,Case Count,150
 Grant,Deaths,1
-Harney,"Cases per 100,000","1,548.913043"
-Harney,Case Count,114
+Harney,"Cases per 100,000","1,562.5"
+Harney,Case Count,115
 Harney,Deaths,1
-Hood River,"Cases per 100,000","1,931.15359"
-Hood River,Case Count,492
+Hood River,"Cases per 100,000","1,954.704243"
+Hood River,Case Count,498
 Hood River,Deaths,3
-Jackson,"Cases per 100,000","1,991.956256"
-Jackson,Case Count,"4,408"
-Jackson,Deaths,41
-Jefferson,"Cases per 100,000","4,135.559097"
-Jefferson,Case Count,986
+Jackson,"Cases per 100,000","2,039.857201"
+Jackson,Case Count,"4,514"
+Jackson,Deaths,44
+Jefferson,"Cases per 100,000","4,252.998909"
+Jefferson,Case Count,"1,014"
 Jefferson,Deaths,11
-Josephine,"Cases per 100,000",779.241738
-Josephine,Case Count,676
-Josephine,Deaths,6
-Klamath,"Cases per 100,000","1,701.179093"
-Klamath,Case Count,"1,160"
-Klamath,Deaths,8
-Lake,"Cases per 100,000","1,856.205915"
-Lake,Case Count,150
+Josephine,"Cases per 100,000",808.059849
+Josephine,Case Count,701
+Josephine,Deaths,7
+Klamath,"Cases per 100,000","1,758.373907"
+Klamath,Case Count,"1,199"
+Klamath,Deaths,10
+Lake,"Cases per 100,000","1,942.828858"
+Lake,Case Count,157
 Lake,Deaths,1
-Lane,"Cases per 100,000","1,317.307109"
-Lane,Case Count,"4,991"
-Lane,Deaths,53
-Lincoln,"Cases per 100,000","1,469.12557"
-Lincoln,Case Count,709
+Lane,"Cases per 100,000","1,345.548315"
+Lane,Case Count,"5,098"
+Lane,Deaths,57
+Lincoln,"Cases per 100,000","1,491.918773"
+Lincoln,Case Count,720
 Lincoln,Deaths,16
-Linn,"Cases per 100,000","1,431.86775"
-Linn,Case Count,"1,812"
+Linn,"Cases per 100,000","1,471.378449"
+Linn,Case Count,"1,862"
 Linn,Deaths,26
-Malheur,"Cases per 100,000","7,973.525647"
-Malheur,Case Count,"2,554"
+Malheur,"Cases per 100,000","7,961.037745"
+Malheur,Case Count,"2,550"
 Malheur,Deaths,45
-Marion,"Cases per 100,000","3,017.014559"
-Marion,Case Count,"10,492"
-Marion,Deaths,164
-Morrow,"Cases per 100,000","5,558.621777"
-Morrow,Case Count,705
+Marion,"Cases per 100,000","3,047.495263"
+Marion,Case Count,"10,598"
+Marion,Deaths,170
+Morrow,"Cases per 100,000","5,598.044627"
+Morrow,Case Count,710
 Morrow,Deaths,7
-Multnomah,"Cases per 100,000","2,400.666886"
-Multnomah,Case Count,"19,727"
-Multnomah,Deaths,275
-Polk,"Cases per 100,000","1,753.011104"
-Polk,Case Count,"1,454"
-Polk,Deaths,23
+Multnomah,"Cases per 100,000","2,433.281005"
+Multnomah,Case Count,"19,995"
+Multnomah,Deaths,286
+Polk,"Cases per 100,000","1,772.30146"
+Polk,Case Count,"1,470"
+Polk,Deaths,24
 Sherman,"Cases per 100,000","1,354.401806"
 Sherman,Case Count,24
 Sherman,Deaths,
-Tillamook,"Cases per 100,000",600.067932
-Tillamook,Case Count,159
+Tillamook,"Cases per 100,000",630.260029
+Tillamook,Case Count,167
 Tillamook,Deaths,
-Umatilla,"Cases per 100,000","5,758.994579"
-Umatilla,Case Count,"4,674"
-Umatilla,Deaths,50
-Union,"Cases per 100,000","3,181.699639"
-Union,Case Count,854
+Umatilla,"Cases per 100,000","5,808.279941"
+Umatilla,Case Count,"4,714"
+Umatilla,Deaths,51
+Union,"Cases per 100,000","3,215.230431"
+Union,Case Count,863
 Union,Deaths,8
-Unknown,"Cases per 100,000",
-Unknown,Case Count,
-Unknown,Deaths,
 Wallowa,"Cases per 100,000","1,006.852189"
 Wallowa,Case Count,72
 Wallowa,Deaths,3
-Wasco,"Cases per 100,000","2,302.01564"
-Wasco,Case Count,627
+Wasco,"Cases per 100,000","2,349.744832"
+Wasco,Case Count,640
 Wasco,Deaths,19
-Washington,"Cases per 100,000","1,988.881825"
-Washington,Case Count,"12,200"
-Washington,Deaths,109
-Wheeler,"Cases per 100,000",486.787204
-Wheeler,Case Count,7
+Washington,"Cases per 100,000","2,017.410867"
+Washington,Case Count,"12,375"
+Washington,Deaths,111
+Wheeler,"Cases per 100,000",695.410292
+Wheeler,Case Count,10
 Wheeler,Deaths,
-Yamhill,"Cases per 100,000","1,809.163343"
-Yamhill,Case Count,"1,955"
-Yamhill,Deaths,18
+Yamhill,"Cases per 100,000","1,830.447618"
+Yamhill,Case Count,"1,978"
+Yamhill,Deaths,19
