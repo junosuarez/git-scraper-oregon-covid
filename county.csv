@@ -1,260 +1,260 @@
 County,Measure Names,Measure Values
-All,"Cases per 100,000","2,501.419249"
-All,Case Count,"105,970"
-All,Deaths,"1,403"
-All,Positive Tests ,"147,128"
-All,Negative Tests ,"2,370,768"
-All,Total Tests ,"2,517,896"
-All,"Tests per 100,000 ","59,434.873283"
-Baker,"Cases per 100,000","2,461.648234"
-Baker,Case Count,414
+All,"Cases per 100,000","2,521.507083"
+All,Case Count,"106,821"
+All,Deaths,"1,415"
+All,Positive Tests ,"148,469"
+All,Negative Tests ,"2,389,013"
+All,Total Tests ,"2,537,482"
+All,"Tests per 100,000 ","59,897.200332"
+Baker,"Cases per 100,000","2,509.216316"
+Baker,Case Count,422
 Baker,Deaths,5
-Baker,Positive Tests ,"1,350"
-Baker,Negative Tests ,"5,095"
-Baker,Total Tests ,"6,445"
-Baker,"Tests per 100,000 ","38,322.035914"
-Benton,"Cases per 100,000","1,318.369207"
-Benton,Case Count,"1,244"
+Baker,Positive Tests ,"1,353"
+Baker,Negative Tests ,"5,121"
+Baker,Total Tests ,"6,474"
+Baker,"Tests per 100,000 ","38,494.47021"
+Benton,"Cases per 100,000","1,328.96703"
+Benton,Case Count,"1,254"
 Benton,Deaths,11
-Benton,Positive Tests ,"2,084"
-Benton,Negative Tests ,"69,441"
-Benton,Total Tests ,"71,525"
-Benton,"Tests per 100,000 ","75,800.930489"
-Clackamas,"Cases per 100,000","2,203.742891"
-Clackamas,Case Count,"9,331"
-Clackamas,Deaths,110
-Clackamas,Positive Tests ,"13,722"
-Clackamas,Negative Tests ,"250,979"
-Clackamas,Total Tests ,"264,701"
-Clackamas,"Tests per 100,000 ","62,515.587507"
-Clatsop,"Cases per 100,000","1,296.654124"
-Clatsop,Case Count,510
-Clatsop,Deaths,2
-Clatsop,Positive Tests ,955
-Clatsop,Negative Tests ,"20,016"
-Clatsop,Total Tests ,"20,971"
-Clatsop,"Tests per 100,000 ","53,317.909082"
-Columbia,"Cases per 100,000","1,463.590346"
-Columbia,Case Count,772
+Benton,Positive Tests ,"2,090"
+Benton,Negative Tests ,"69,782"
+Benton,Total Tests ,"71,872"
+Benton,"Tests per 100,000 ","76,168.674954"
+Clackamas,"Cases per 100,000","2,218.385701"
+Clackamas,Case Count,"9,393"
+Clackamas,Deaths,111
+Clackamas,Positive Tests ,"13,874"
+Clackamas,Negative Tests ,"253,294"
+Clackamas,Total Tests ,"267,168"
+Clackamas,"Tests per 100,000 ","63,098.229637"
+Clatsop,"Cases per 100,000","1,304.281501"
+Clatsop,Case Count,513
+Clatsop,Deaths,3
+Clatsop,Positive Tests ,962
+Clatsop,Negative Tests ,"20,088"
+Clatsop,Total Tests ,"21,050"
+Clatsop,"Tests per 100,000 ","53,518.763348"
+Columbia,"Cases per 100,000","1,471.173716"
+Columbia,Case Count,776
 Columbia,Deaths,12
-Columbia,Positive Tests ,"1,044"
-Columbia,Negative Tests ,"23,872"
-Columbia,Total Tests ,"24,916"
-Columbia,"Tests per 100,000 ","47,236.809676"
-Coos,"Cases per 100,000","1,068.132979"
-Coos,Case Count,676
+Columbia,Positive Tests ,"1,051"
+Columbia,Negative Tests ,"23,995"
+Columbia,Total Tests ,"25,046"
+Columbia,"Tests per 100,000 ","47,483.269191"
+Coos,"Cases per 100,000","1,085.513841"
+Coos,Case Count,687
 Coos,Deaths,6
-Coos,Positive Tests ,742
-Coos,Negative Tests ,"21,141"
-Coos,Total Tests ,"21,883"
-Coos,"Tests per 100,000 ","34,576.855012"
-Crook,"Cases per 100,000","1,732.00802"
-Crook,Case Count,406
+Coos,Positive Tests ,746
+Coos,Negative Tests ,"21,244"
+Coos,Total Tests ,"21,990"
+Coos,"Tests per 100,000 ","34,745.923398"
+Crook,"Cases per 100,000","1,753.338168"
+Crook,Case Count,411
 Crook,Deaths,7
-Crook,Positive Tests ,641
-Crook,Negative Tests ,"8,786"
-Crook,Total Tests ,"9,427"
-Crook,"Tests per 100,000 ","40,215.861098"
-Curry,"Cases per 100,000","1,104.347826"
-Curry,Case Count,254
+Crook,Positive Tests ,650
+Crook,Negative Tests ,"8,833"
+Crook,Total Tests ,"9,483"
+Crook,"Tests per 100,000 ","40,454.758756"
+Curry,"Cases per 100,000","1,134.782609"
+Curry,Case Count,261
 Curry,Deaths,3
-Curry,Positive Tests ,192
-Curry,Negative Tests ,"5,059"
-Curry,Total Tests ,"5,251"
-Curry,"Tests per 100,000 ","22,830.434783"
-Deschutes,"Cases per 100,000","1,901.544552"
-Deschutes,Case Count,"3,670"
+Curry,Positive Tests ,193
+Curry,Negative Tests ,"5,081"
+Curry,Total Tests ,"5,274"
+Curry,"Tests per 100,000 ","22,930.434783"
+Deschutes,"Cases per 100,000","1,918.124777"
+Deschutes,Case Count,"3,702"
 Deschutes,Deaths,20
-Deschutes,Positive Tests ,"5,375"
-Deschutes,Negative Tests ,"89,971"
-Deschutes,Total Tests ,"95,346"
-Deschutes,"Tests per 100,000 ","49,401.816571"
-Douglas,"Cases per 100,000","1,176.826932"
-Douglas,Case Count,"1,321"
+Deschutes,Positive Tests ,"5,423"
+Deschutes,Negative Tests ,"90,552"
+Deschutes,Total Tests ,"95,975"
+Deschutes,"Tests per 100,000 ","49,727.721618"
+Douglas,"Cases per 100,000","1,183.062957"
+Douglas,Case Count,"1,328"
 Douglas,Deaths,37
-Douglas,Positive Tests ,"1,186"
-Douglas,Negative Tests ,"36,802"
-Douglas,Total Tests ,"37,988"
-Douglas,"Tests per 100,000 ","33,842.01477"
+Douglas,Positive Tests ,"1,192"
+Douglas,Negative Tests ,"36,999"
+Douglas,Total Tests ,"38,191"
+Douglas,"Tests per 100,000 ","34,022.859485"
 Gilliam,"Cases per 100,000","1,657.458564"
 Gilliam,Case Count,33
 Gilliam,Deaths,1
 Gilliam,Positive Tests ,22
-Gilliam,Negative Tests ,661
-Gilliam,Total Tests ,683
-Gilliam,"Tests per 100,000 ","34,304.369663"
-Grant,"Cases per 100,000","2,255.434783"
-Grant,Case Count,166
+Gilliam,Negative Tests ,667
+Gilliam,Total Tests ,689
+Gilliam,"Tests per 100,000 ","34,605.725766"
+Grant,"Cases per 100,000","2,282.608696"
+Grant,Case Count,168
 Grant,Deaths,1
-Grant,Positive Tests ,158
-Grant,Negative Tests ,"2,414"
-Grant,Total Tests ,"2,572"
-Grant,"Tests per 100,000 ","34,945.652174"
-Harney,"Cases per 100,000","1,711.956522"
-Harney,Case Count,126
+Grant,Positive Tests ,159
+Grant,Negative Tests ,"2,449"
+Grant,Total Tests ,"2,608"
+Grant,"Tests per 100,000 ","35,434.782609"
+Harney,"Cases per 100,000","1,739.130435"
+Harney,Case Count,128
 Harney,Deaths,1
-Harney,Positive Tests ,148
-Harney,Negative Tests ,"2,026"
-Harney,Total Tests ,"2,174"
-Harney,"Tests per 100,000 ","29,538.043478"
-Hood River,"Cases per 100,000","2,896.730384"
-Hood River,Case Count,738
-Hood River,Deaths,10
-Hood River,Positive Tests ,972
-Hood River,Negative Tests ,"18,380"
-Hood River,Total Tests ,"19,352"
-Hood River,"Tests per 100,000 ","75,958.707854"
-Jackson,"Cases per 100,000","2,466.89864"
-Jackson,Case Count,"5,459"
-Jackson,Deaths,63
-Jackson,Positive Tests ,"6,860"
-Jackson,Negative Tests ,"113,794"
-Jackson,Total Tests ,"120,654"
-Jackson,"Tests per 100,000 ","54,523.024086"
-Jefferson,"Cases per 100,000","5,507.088332"
-Jefferson,Case Count,"1,313"
+Harney,Positive Tests ,149
+Harney,Negative Tests ,"2,029"
+Harney,Total Tests ,"2,178"
+Harney,"Tests per 100,000 ","29,592.391304"
+Hood River,"Cases per 100,000","2,943.831691"
+Hood River,Case Count,750
+Hood River,Deaths,11
+Hood River,Positive Tests ,984
+Hood River,Negative Tests ,"18,465"
+Hood River,Total Tests ,"19,449"
+Hood River,"Tests per 100,000 ","76,339.44342"
+Jackson,"Cases per 100,000","2,479.551719"
+Jackson,Case Count,"5,487"
+Jackson,Deaths,64
+Jackson,Positive Tests ,"6,939"
+Jackson,Negative Tests ,"114,730"
+Jackson,Total Tests ,"121,669"
+Jackson,"Tests per 100,000 ","54,981.698224"
+Jefferson,"Cases per 100,000","5,553.225401"
+Jefferson,Case Count,"1,324"
 Jefferson,Deaths,16
-Jefferson,Positive Tests ,"1,245"
-Jefferson,Negative Tests ,"10,721"
-Jefferson,Total Tests ,"11,966"
-Jefferson,"Tests per 100,000 ","50,188.742555"
-Josephine,"Cases per 100,000","1,182.6953"
-Josephine,Case Count,"1,026"
+Jefferson,Positive Tests ,"1,262"
+Jefferson,Negative Tests ,"10,780"
+Jefferson,Total Tests ,"12,042"
+Jefferson,"Tests per 100,000 ","50,507.507759"
+Josephine,"Cases per 100,000","1,218.429759"
+Josephine,Case Count,"1,057"
 Josephine,Deaths,20
-Josephine,Positive Tests ,"1,010"
-Josephine,Negative Tests ,"29,513"
-Josephine,Total Tests ,"30,523"
-Josephine,"Tests per 100,000 ","35,184.608823"
-Klamath,"Cases per 100,000","2,487.241157"
-Klamath,Case Count,"1,696"
-Klamath,Deaths,15
-Klamath,Positive Tests ,"1,857"
-Klamath,Negative Tests ,"26,786"
-Klamath,Total Tests ,"28,643"
-Klamath,"Tests per 100,000 ","42,005.924796"
+Josephine,Positive Tests ,"1,032"
+Josephine,Negative Tests ,"29,657"
+Josephine,Total Tests ,"30,689"
+Josephine,"Tests per 100,000 ","35,375.961084"
+Klamath,"Cases per 100,000","2,556.168241"
+Klamath,Case Count,"1,743"
+Klamath,Deaths,16
+Klamath,Positive Tests ,"1,879"
+Klamath,Negative Tests ,"27,168"
+Klamath,Total Tests ,"29,047"
+Klamath,"Tests per 100,000 ","42,598.404411"
 Lake,"Cases per 100,000","2,314.070041"
 Lake,Case Count,187
 Lake,Deaths,4
 Lake,Positive Tests ,243
-Lake,Negative Tests ,"1,557"
-Lake,Total Tests ,"1,800"
-Lake,"Tests per 100,000 ","22,274.470981"
-Lane,"Cases per 100,000","1,690.249394"
-Lane,Case Count,"6,404"
+Lake,Negative Tests ,"1,563"
+Lake,Total Tests ,"1,806"
+Lake,"Tests per 100,000 ","22,348.719218"
+Lane,"Cases per 100,000","1,707.669203"
+Lane,Case Count,"6,470"
 Lane,Deaths,84
-Lane,Positive Tests ,"6,831"
-Lane,Negative Tests ,"219,417"
-Lane,Total Tests ,"226,248"
-Lane,"Tests per 100,000 ","59,715.106934"
-Lincoln,"Cases per 100,000","1,697.057605"
-Lincoln,Case Count,819
+Lane,Positive Tests ,"6,879"
+Lane,Negative Tests ,"221,214"
+Lane,Total Tests ,"228,093"
+Lane,"Tests per 100,000 ","60,202.06979"
+Lincoln,"Cases per 100,000","1,730.211355"
+Lincoln,Case Count,835
 Lincoln,Deaths,17
-Lincoln,Positive Tests ,"1,750"
-Lincoln,Negative Tests ,"26,801"
-Lincoln,Total Tests ,"28,551"
-Lincoln,"Tests per 100,000 ","59,160.79569"
-Linn,"Cases per 100,000","1,922.590638"
-Linn,Case Count,"2,433"
+Lincoln,Positive Tests ,"1,759"
+Lincoln,Negative Tests ,"26,888"
+Lincoln,Total Tests ,"28,647"
+Lincoln,"Tests per 100,000 ","59,359.718193"
+Linn,"Cases per 100,000","1,946.297057"
+Linn,Case Count,"2,463"
 Linn,Deaths,32
-Linn,Positive Tests ,"4,863"
-Linn,Negative Tests ,"70,804"
-Linn,Total Tests ,"75,667"
-Linn,"Tests per 100,000 ","59,793.121977"
-Malheur,"Cases per 100,000","8,657.2383"
-Malheur,Case Count,"2,773"
-Malheur,Deaths,49
-Malheur,Positive Tests ,"4,188"
-Malheur,Negative Tests ,"13,668"
-Malheur,Total Tests ,"17,856"
-Malheur,"Tests per 100,000 ","55,745.996066"
-Marion,"Cases per 100,000","3,708.006361"
-Marion,Case Count,"12,895"
-Marion,Deaths,201
-Marion,Positive Tests ,"18,663"
-Marion,Negative Tests ,"186,802"
-Marion,Total Tests ,"205,465"
-Marion,"Tests per 100,000 ","59,082.243265"
-Morrow,"Cases per 100,000","6,149.964519"
-Morrow,Case Count,780
+Linn,Positive Tests ,"4,887"
+Linn,Negative Tests ,"71,462"
+Linn,Total Tests ,"76,349"
+Linn,"Tests per 100,000 ","60,332.047919"
+Malheur,"Cases per 100,000","8,722.799788"
+Malheur,Case Count,"2,794"
+Malheur,Deaths,50
+Malheur,Positive Tests ,"4,195"
+Malheur,Negative Tests ,"13,707"
+Malheur,Total Tests ,"17,902"
+Malheur,"Tests per 100,000 ","55,889.606943"
+Marion,"Cases per 100,000","3,731.298219"
+Marion,Case Count,"12,976"
+Marion,Deaths,203
+Marion,Positive Tests ,"18,823"
+Marion,Negative Tests ,"188,120"
+Marion,Total Tests ,"206,943"
+Marion,"Tests per 100,000 ","59,507.247794"
+Morrow,"Cases per 100,000","6,189.387369"
+Morrow,Case Count,785
 Morrow,Deaths,8
-Morrow,Positive Tests ,922
-Morrow,Negative Tests ,"4,172"
-Morrow,Total Tests ,"5,094"
-Morrow,"Tests per 100,000 ","40,163.999054"
-Multnomah,"Cases per 100,000","2,897.667117"
-Multnomah,Case Count,"23,811"
-Multnomah,Deaths,379
-Multnomah,Positive Tests ,"34,368"
-Multnomah,Negative Tests ,"571,261"
-Multnomah,Total Tests ,"605,629"
-Multnomah,"Tests per 100,000 ","73,701.702506"
-Polk,"Cases per 100,000","2,181.015878"
-Polk,Case Count,"1,809"
+Morrow,Positive Tests ,928
+Morrow,Negative Tests ,"4,195"
+Morrow,Total Tests ,"5,123"
+Morrow,"Tests per 100,000 ","40,392.651581"
+Multnomah,"Cases per 100,000","2,919.450428"
+Multnomah,Case Count,"23,990"
+Multnomah,Deaths,381
+Multnomah,Positive Tests ,"34,707"
+Multnomah,Negative Tests ,"576,063"
+Multnomah,Total Tests ,"610,770"
+Multnomah,"Tests per 100,000 ","74,327.333796"
+Polk,"Cases per 100,000","2,193.072351"
+Polk,Case Count,"1,819"
 Polk,Deaths,25
-Polk,Positive Tests ,"2,321"
-Polk,Negative Tests ,"37,121"
-Polk,Total Tests ,"39,442"
-Polk,"Tests per 100,000 ","47,553.138903"
+Polk,Positive Tests ,"2,356"
+Polk,Negative Tests ,"37,379"
+Polk,Total Tests ,"39,735"
+Polk,"Tests per 100,000 ","47,906.393547"
 Sherman,"Cases per 100,000","1,749.435666"
 Sherman,Case Count,31
 Sherman,Deaths,0
 Sherman,Positive Tests ,39
-Sherman,Negative Tests ,842
-Sherman,Total Tests ,881
-Sherman,"Tests per 100,000 ","49,717.832957"
-Tillamook,"Cases per 100,000","1,022.757293"
-Tillamook,Case Count,271
+Sherman,Negative Tests ,849
+Sherman,Total Tests ,888
+Sherman,"Tests per 100,000 ","50,112.866817"
+Tillamook,"Cases per 100,000","1,049.175378"
+Tillamook,Case Count,278
 Tillamook,Deaths,0
-Tillamook,Positive Tests ,258
-Tillamook,Negative Tests ,"8,507"
-Tillamook,Total Tests ,"8,765"
-Tillamook,"Tests per 100,000 ","33,079.216515"
-Umatilla,"Cases per 100,000","6,490.882208"
-Umatilla,Case Count,"5,268"
-Umatilla,Deaths,55
-Umatilla,Positive Tests ,"5,668"
-Umatilla,Negative Tests ,"37,790"
-Umatilla,Total Tests ,"43,458"
-Umatilla,"Tests per 100,000 ","53,546.081814"
-Union,"Cases per 100,000","3,569.166574"
-Union,Case Count,958
+Tillamook,Positive Tests ,261
+Tillamook,Negative Tests ,"8,572"
+Tillamook,Total Tests ,"8,833"
+Tillamook,"Tests per 100,000 ","33,335.849341"
+Umatilla,"Cases per 100,000","6,530.310498"
+Umatilla,Case Count,"5,300"
+Umatilla,Deaths,56
+Umatilla,Positive Tests ,"5,728"
+Umatilla,Negative Tests ,"38,059"
+Umatilla,Total Tests ,"43,787"
+Umatilla,"Tests per 100,000 ","53,951.453918"
+Union,"Cases per 100,000","3,595.246079"
+Union,Case Count,965
 Union,Deaths,13
 Union,Positive Tests ,772
-Union,Negative Tests ,"6,927"
-Union,Total Tests ,"7,699"
-Union,"Tests per 100,000 ","28,683.730114"
+Union,Negative Tests ,"6,961"
+Union,Total Tests ,"7,733"
+Union,"Tests per 100,000 ","28,810.401997"
 Wallowa,"Cases per 100,000","1,048.804363"
 Wallowa,Case Count,75
 Wallowa,Deaths,3
 Wallowa,Positive Tests ,51
-Wallowa,Negative Tests ,"1,463"
-Wallowa,Total Tests ,"1,514"
-Wallowa,"Tests per 100,000 ","21,171.864075"
-Wasco,"Cases per 100,000","2,992.253185"
-Wasco,Case Count,815
+Wallowa,Negative Tests ,"1,470"
+Wallowa,Total Tests ,"1,521"
+Wallowa,"Tests per 100,000 ","21,269.752482"
+Wasco,"Cases per 100,000","3,032.639424"
+Wasco,Case Count,826
 Wasco,Deaths,22
-Wasco,Positive Tests ,958
-Wasco,Negative Tests ,"17,132"
-Wasco,Total Tests ,"18,090"
-Wasco,"Tests per 100,000 ","66,417.006278"
-Washington,"Cases per 100,000","2,444.368367"
-Washington,Case Count,"14,994"
+Wasco,Positive Tests ,961
+Wasco,Negative Tests ,"17,232"
+Wasco,Total Tests ,"18,193"
+Wasco,"Tests per 100,000 ","66,795.168337"
+Washington,"Cases per 100,000","2,457.084169"
+Washington,Case Count,"15,072"
 Washington,Deaths,138
-Washington,Positive Tests ,"22,097"
-Washington,Negative Tests ,"361,180"
-Washington,Total Tests ,"383,277"
-Washington,"Tests per 100,000 ","62,483.004842"
+Washington,Positive Tests ,"22,330"
+Washington,Negative Tests ,"364,081"
+Washington,Total Tests ,"386,411"
+Washington,"Tests per 100,000 ","62,993.919238"
 Wheeler,"Cases per 100,000","1,112.656467"
 Wheeler,Case Count,16
 Wheeler,Deaths,0
-Wheeler,Positive Tests ,13
-Wheeler,Negative Tests ,259
-Wheeler,Total Tests ,272
-Wheeler,"Tests per 100,000 ","18,915.159944"
-Yamhill,"Cases per 100,000","2,291.298433"
-Yamhill,Case Count,"2,476"
-Yamhill,Deaths,33
-Yamhill,Positive Tests ,"3,560"
-Yamhill,Negative Tests ,"69,608"
-Yamhill,Total Tests ,"73,168"
-Yamhill,"Tests per 100,000 ","67,709.904591"
+Wheeler,Positive Tests ,14
+Wheeler,Negative Tests ,260
+Wheeler,Total Tests ,274
+Wheeler,"Tests per 100,000 ","19,054.242003"
+Yamhill,"Cases per 100,000","2,315.358918"
+Yamhill,Case Count,"2,502"
+Yamhill,Deaths,34
+Yamhill,Positive Tests ,"3,576"
+Yamhill,Negative Tests ,"70,004"
+Yamhill,Total Tests ,"73,580"
+Yamhill,"Tests per 100,000 ","68,091.170728"
