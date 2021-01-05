@@ -1,6 +1,6 @@
 County,Measure Names,Measure Values
-All,"Cases per 100,000","2,796.150973"
-All,Case Count,"118,456"
+All,"Cases per 100,000","2,796.080158"
+All,Case Count,"118,453"
 All,Deaths,"1,506"
 All,Positive Tests ,"161,817"
 All,Negative Tests ,"2,560,960"
@@ -181,8 +181,8 @@ Morrow,Positive Tests ,989
 Morrow,Negative Tests ,"4,415"
 Morrow,Total Tests ,"5,404"
 Morrow,"Tests per 100,000 ","42,608.215722"
-Multnomah,"Cases per 100,000","3,167.828849"
-Multnomah,Case Count,"26,031"
+Multnomah,"Cases per 100,000","3,167.463765"
+Multnomah,Case Count,"26,028"
 Multnomah,Deaths,394
 Multnomah,Positive Tests ,"37,122"
 Multnomah,Negative Tests ,"616,675"
