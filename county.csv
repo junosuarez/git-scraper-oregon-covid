@@ -26,10 +26,11 @@ Baker,4/22/2021,10
 Baker,4/23/2021,6
 Baker,4/24/2021,2
 Baker,4/25/2021,2
+Baker,4/26/2021,5
 Benton,3/28/2021,9
 Benton,3/29/2021,10
 Benton,3/30/2021,15
-Benton,3/31/2021,8
+Benton,3/31/2021,9
 Benton,4/1/2021,5
 Benton,4/2/2021,7
 Benton,4/3/2021,4
@@ -44,20 +45,21 @@ Benton,4/11/2021,1
 Benton,4/12/2021,17
 Benton,4/13/2021,25
 Benton,4/14/2021,20
-Benton,4/15/2021,8
+Benton,4/15/2021,9
 Benton,4/16/2021,7
 Benton,4/17/2021,1
 Benton,4/19/2021,19
-Benton,4/20/2021,26
+Benton,4/20/2021,28
 Benton,4/21/2021,25
 Benton,4/22/2021,8
-Benton,4/23/2021,12
-Benton,4/24/2021,7
+Benton,4/23/2021,13
+Benton,4/24/2021,6
 Benton,4/25/2021,2
+Benton,4/26/2021,16
 Clackamas,3/28/2021,30
 Clackamas,3/29/2021,44
 Clackamas,3/30/2021,58
-Clackamas,3/31/2021,38
+Clackamas,3/31/2021,37
 Clackamas,4/1/2021,28
 Clackamas,4/2/2021,64
 Clackamas,4/3/2021,57
@@ -71,17 +73,18 @@ Clackamas,4/11/2021,39
 Clackamas,4/12/2021,51
 Clackamas,4/13/2021,98
 Clackamas,4/14/2021,62
-Clackamas,4/15/2021,80
+Clackamas,4/15/2021,79
 Clackamas,4/16/2021,93
 Clackamas,4/17/2021,74
 Clackamas,4/18/2021,64
-Clackamas,4/19/2021,47
+Clackamas,4/19/2021,48
 Clackamas,4/20/2021,62
 Clackamas,4/21/2021,112
 Clackamas,4/22/2021,58
-Clackamas,4/23/2021,106
+Clackamas,4/23/2021,109
 Clackamas,4/24/2021,90
-Clackamas,4/25/2021,94
+Clackamas,4/25/2021,96
+Clackamas,4/26/2021,64
 Clatsop,3/28/2021,3
 Clatsop,3/29/2021,1
 Clatsop,3/30/2021,2
@@ -108,6 +111,7 @@ Clatsop,4/22/2021,7
 Clatsop,4/23/2021,1
 Clatsop,4/24/2021,1
 Clatsop,4/25/2021,4
+Clatsop,4/26/2021,8
 Columbia,3/28/2021,3
 Columbia,3/29/2021,8
 Columbia,3/30/2021,10
@@ -137,6 +141,7 @@ Columbia,4/22/2021,13
 Columbia,4/23/2021,7
 Columbia,4/24/2021,8
 Columbia,4/25/2021,7
+Columbia,4/26/2021,10
 Coos,3/28/2021,7
 Coos,3/29/2021,5
 Coos,3/30/2021,7
@@ -163,6 +168,7 @@ Coos,4/22/2021,6
 Coos,4/23/2021,5
 Coos,4/24/2021,3
 Coos,4/25/2021,5
+Coos,4/26/2021,6
 Crook,3/29/2021,6
 Crook,3/30/2021,2
 Crook,3/31/2021,2
@@ -186,8 +192,9 @@ Crook,4/20/2021,4
 Crook,4/21/2021,12
 Crook,4/22/2021,16
 Crook,4/23/2021,8
-Crook,4/24/2021,15
+Crook,4/24/2021,14
 Crook,4/25/2021,3
+Crook,4/26/2021,9
 Curry,3/29/2021,7
 Curry,3/30/2021,2
 Curry,3/31/2021,4
@@ -209,6 +216,7 @@ Curry,4/20/2021,5
 Curry,4/21/2021,3
 Curry,4/22/2021,1
 Curry,4/23/2021,7
+Curry,4/26/2021,4
 Deschutes,3/28/2021,14
 Deschutes,3/29/2021,12
 Deschutes,3/30/2021,12
@@ -238,6 +246,7 @@ Deschutes,4/22/2021,102
 Deschutes,4/23/2021,79
 Deschutes,4/24/2021,84
 Deschutes,4/25/2021,43
+Deschutes,4/26/2021,80
 Douglas,3/28/2021,12
 Douglas,3/29/2021,18
 Douglas,3/30/2021,5
@@ -267,6 +276,7 @@ Douglas,4/22/2021,9
 Douglas,4/23/2021,11
 Douglas,4/24/2021,4
 Douglas,4/25/2021,4
+Douglas,4/26/2021,15
 Gilliam,4/7/2021,1
 Gilliam,4/16/2021,1
 Gilliam,4/19/2021,1
@@ -292,6 +302,7 @@ Grant,4/21/2021,1
 Grant,4/22/2021,6
 Grant,4/24/2021,27
 Grant,4/25/2021,4
+Grant,4/26/2021,7
 Harney,3/28/2021,2
 Harney,3/29/2021,1
 Harney,3/30/2021,1
@@ -308,6 +319,7 @@ Harney,4/19/2021,7
 Harney,4/20/2021,2
 Harney,4/22/2021,2
 Harney,4/23/2021,1
+Harney,4/26/2021,5
 Hood River,4/2/2021,1
 Hood River,4/4/2021,1
 Hood River,4/5/2021,2
@@ -328,6 +340,7 @@ Hood River,4/22/2021,5
 Hood River,4/23/2021,2
 Hood River,4/24/2021,2
 Hood River,4/25/2021,1
+Hood River,4/26/2021,1
 Jackson,3/28/2021,11
 Jackson,3/29/2021,31
 Jackson,3/30/2021,29
@@ -357,6 +370,7 @@ Jackson,4/22/2021,60
 Jackson,4/23/2021,47
 Jackson,4/24/2021,15
 Jackson,4/25/2021,55
+Jackson,4/26/2021,29
 Jefferson,3/29/2021,1
 Jefferson,3/31/2021,2
 Jefferson,4/1/2021,3
@@ -383,6 +397,7 @@ Jefferson,4/22/2021,9
 Jefferson,4/23/2021,4
 Jefferson,4/24/2021,1
 Jefferson,4/25/2021,2
+Jefferson,4/26/2021,3
 Josephine,3/28/2021,6
 Josephine,3/29/2021,8
 Josephine,3/30/2021,16
@@ -411,7 +426,8 @@ Josephine,4/21/2021,17
 Josephine,4/22/2021,13
 Josephine,4/23/2021,12
 Josephine,4/24/2021,10
-Josephine,4/25/2021,8
+Josephine,4/25/2021,7
+Josephine,4/26/2021,8
 Klamath,3/29/2021,12
 Klamath,3/30/2021,14
 Klamath,3/31/2021,21
@@ -436,6 +452,7 @@ Klamath,4/21/2021,54
 Klamath,4/22/2021,105
 Klamath,4/23/2021,38
 Klamath,4/24/2021,37
+Klamath,4/26/2021,45
 Lake,3/28/2021,1
 Lake,3/29/2021,3
 Lake,3/30/2021,1
@@ -450,6 +467,7 @@ Lake,4/20/2021,3
 Lake,4/21/2021,2
 Lake,4/23/2021,1
 Lake,4/24/2021,1
+Lake,4/26/2021,4
 Lane,3/28/2021,18
 Lane,3/29/2021,15
 Lane,3/30/2021,36
@@ -477,8 +495,9 @@ Lane,4/20/2021,76
 Lane,4/21/2021,54
 Lane,4/22/2021,80
 Lane,4/23/2021,70
-Lane,4/24/2021,36
-Lane,4/25/2021,40
+Lane,4/24/2021,37
+Lane,4/25/2021,39
+Lane,4/26/2021,67
 Lincoln,3/28/2021,6
 Lincoln,3/29/2021,1
 Lincoln,3/30/2021,3
@@ -506,6 +525,7 @@ Lincoln,4/22/2021,4
 Lincoln,4/23/2021,6
 Lincoln,4/24/2021,6
 Lincoln,4/25/2021,2
+Lincoln,4/26/2021,3
 Linn,3/28/2021,16
 Linn,3/29/2021,8
 Linn,3/30/2021,18
@@ -535,6 +555,7 @@ Linn,4/22/2021,22
 Linn,4/23/2021,34
 Linn,4/24/2021,31
 Linn,4/25/2021,16
+Linn,4/26/2021,23
 Malheur,3/29/2021,5
 Malheur,3/30/2021,1
 Malheur,3/31/2021,2
@@ -559,6 +580,7 @@ Malheur,4/21/2021,2
 Malheur,4/22/2021,3
 Malheur,4/23/2021,1
 Malheur,4/24/2021,1
+Malheur,4/26/2021,8
 Marion,3/28/2021,19
 Marion,3/29/2021,18
 Marion,3/30/2021,23
@@ -587,7 +609,8 @@ Marion,4/21/2021,109
 Marion,4/22/2021,120
 Marion,4/23/2021,63
 Marion,4/24/2021,111
-Marion,4/25/2021,81
+Marion,4/25/2021,79
+Marion,4/26/2021,48
 Morrow,3/29/2021,1
 Morrow,4/2/2021,1
 Morrow,4/3/2021,1
@@ -627,13 +650,14 @@ Multnomah,4/15/2021,84
 Multnomah,4/16/2021,158
 Multnomah,4/17/2021,137
 Multnomah,4/18/2021,131
-Multnomah,4/19/2021,83
-Multnomah,4/20/2021,158
-Multnomah,4/21/2021,203
-Multnomah,4/22/2021,196
-Multnomah,4/23/2021,131
-Multnomah,4/24/2021,167
-Multnomah,4/25/2021,164
+Multnomah,4/19/2021,82
+Multnomah,4/20/2021,156
+Multnomah,4/21/2021,192
+Multnomah,4/22/2021,191
+Multnomah,4/23/2021,126
+Multnomah,4/24/2021,163
+Multnomah,4/25/2021,161
+Multnomah,4/26/2021,116
 Polk,3/28/2021,6
 Polk,3/29/2021,11
 Polk,3/30/2021,10
@@ -662,7 +686,8 @@ Polk,4/21/2021,19
 Polk,4/22/2021,14
 Polk,4/23/2021,10
 Polk,4/24/2021,8
-Polk,4/25/2021,10
+Polk,4/25/2021,11
+Polk,4/26/2021,8
 Sherman,4/5/2021,1
 Sherman,4/6/2021,2
 Sherman,4/13/2021,1
@@ -695,6 +720,7 @@ Tillamook,4/22/2021,3
 Tillamook,4/23/2021,5
 Tillamook,4/24/2021,2
 Tillamook,4/25/2021,5
+Tillamook,4/26/2021,2
 Umatilla,3/29/2021,9
 Umatilla,3/30/2021,3
 Umatilla,4/1/2021,7
@@ -715,6 +741,7 @@ Umatilla,4/20/2021,16
 Umatilla,4/21/2021,8
 Umatilla,4/22/2021,13
 Umatilla,4/23/2021,8
+Umatilla,4/26/2021,15
 Union,3/28/2021,5
 Union,3/29/2021,1
 Union,3/30/2021,3
@@ -748,6 +775,7 @@ Wallowa,4/19/2021,1
 Wallowa,4/20/2021,1
 Wallowa,4/22/2021,1
 Wallowa,4/23/2021,1
+Wallowa,4/26/2021,2
 Wasco,3/30/2021,1
 Wasco,4/2/2021,1
 Wasco,4/3/2021,1
@@ -772,6 +800,7 @@ Wasco,4/22/2021,3
 Wasco,4/23/2021,6
 Wasco,4/24/2021,3
 Wasco,4/25/2021,3
+Wasco,4/26/2021,4
 Washington,3/29/2021,74
 Washington,3/30/2021,47
 Washington,3/31/2021,48
@@ -800,6 +829,8 @@ Washington,4/22/2021,102
 Washington,4/23/2021,116
 Washington,4/24/2021,81
 Washington,4/25/2021,66
+Washington,4/26/2021,114
+Washington,4/27/2021,4
 Wheeler,4/19/2021,1
 Yamhill,3/28/2021,7
 Yamhill,3/29/2021,6
@@ -827,6 +858,7 @@ Yamhill,4/19/2021,9
 Yamhill,4/20/2021,12
 Yamhill,4/21/2021,20
 Yamhill,4/22/2021,17
-Yamhill,4/23/2021,24
+Yamhill,4/23/2021,23
 Yamhill,4/24/2021,21
 Yamhill,4/25/2021,8
+Yamhill,4/26/2021,11
