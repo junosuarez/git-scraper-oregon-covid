@@ -1,864 +1,260 @@
-County,True Case Date,Number of Rows (Aggregated)
-Baker,3/28/2021,3
-Baker,3/29/2021,10
-Baker,3/30/2021,7
-Baker,3/31/2021,7
-Baker,4/1/2021,8
-Baker,4/2/2021,13
-Baker,4/3/2021,1
-Baker,4/5/2021,4
-Baker,4/6/2021,4
-Baker,4/7/2021,4
-Baker,4/8/2021,3
-Baker,4/9/2021,6
-Baker,4/10/2021,1
-Baker,4/11/2021,6
-Baker,4/12/2021,5
-Baker,4/13/2021,13
-Baker,4/14/2021,16
-Baker,4/15/2021,9
-Baker,4/16/2021,6
-Baker,4/17/2021,2
-Baker,4/18/2021,3
-Baker,4/20/2021,6
-Baker,4/21/2021,15
-Baker,4/22/2021,10
-Baker,4/23/2021,6
-Baker,4/24/2021,2
-Baker,4/25/2021,2
-Baker,4/26/2021,5
-Benton,3/28/2021,9
-Benton,3/29/2021,10
-Benton,3/30/2021,15
-Benton,3/31/2021,9
-Benton,4/1/2021,5
-Benton,4/2/2021,7
-Benton,4/3/2021,4
-Benton,4/4/2021,5
-Benton,4/5/2021,12
-Benton,4/6/2021,8
-Benton,4/7/2021,4
-Benton,4/8/2021,3
-Benton,4/9/2021,9
-Benton,4/10/2021,7
-Benton,4/11/2021,1
-Benton,4/12/2021,17
-Benton,4/13/2021,25
-Benton,4/14/2021,20
-Benton,4/15/2021,9
-Benton,4/16/2021,7
-Benton,4/17/2021,1
-Benton,4/19/2021,19
-Benton,4/20/2021,28
-Benton,4/21/2021,25
-Benton,4/22/2021,8
-Benton,4/23/2021,13
-Benton,4/24/2021,6
-Benton,4/25/2021,2
-Benton,4/26/2021,16
-Clackamas,3/28/2021,30
-Clackamas,3/29/2021,44
-Clackamas,3/30/2021,58
-Clackamas,3/31/2021,37
-Clackamas,4/1/2021,28
-Clackamas,4/2/2021,64
-Clackamas,4/3/2021,57
-Clackamas,4/5/2021,83
-Clackamas,4/6/2021,55
-Clackamas,4/7/2021,63
-Clackamas,4/8/2021,50
-Clackamas,4/9/2021,78
-Clackamas,4/10/2021,71
-Clackamas,4/11/2021,39
-Clackamas,4/12/2021,51
-Clackamas,4/13/2021,98
-Clackamas,4/14/2021,62
-Clackamas,4/15/2021,79
-Clackamas,4/16/2021,93
-Clackamas,4/17/2021,74
-Clackamas,4/18/2021,64
-Clackamas,4/19/2021,48
-Clackamas,4/20/2021,62
-Clackamas,4/21/2021,112
-Clackamas,4/22/2021,58
-Clackamas,4/23/2021,109
-Clackamas,4/24/2021,90
-Clackamas,4/25/2021,96
-Clackamas,4/26/2021,64
-Clatsop,3/28/2021,3
-Clatsop,3/29/2021,1
-Clatsop,3/30/2021,2
-Clatsop,3/31/2021,7
-Clatsop,4/1/2021,2
-Clatsop,4/4/2021,2
-Clatsop,4/5/2021,1
-Clatsop,4/6/2021,4
-Clatsop,4/7/2021,6
-Clatsop,4/8/2021,6
-Clatsop,4/10/2021,1
-Clatsop,4/11/2021,6
-Clatsop,4/12/2021,3
-Clatsop,4/13/2021,2
-Clatsop,4/14/2021,3
-Clatsop,4/15/2021,3
-Clatsop,4/16/2021,8
-Clatsop,4/17/2021,4
-Clatsop,4/18/2021,4
-Clatsop,4/19/2021,1
-Clatsop,4/20/2021,7
-Clatsop,4/21/2021,4
-Clatsop,4/22/2021,7
-Clatsop,4/23/2021,1
-Clatsop,4/24/2021,1
-Clatsop,4/25/2021,4
-Clatsop,4/26/2021,8
-Columbia,3/28/2021,3
-Columbia,3/29/2021,8
-Columbia,3/30/2021,10
-Columbia,3/31/2021,16
-Columbia,4/1/2021,13
-Columbia,4/2/2021,8
-Columbia,4/3/2021,6
-Columbia,4/4/2021,17
-Columbia,4/5/2021,5
-Columbia,4/6/2021,12
-Columbia,4/7/2021,9
-Columbia,4/8/2021,7
-Columbia,4/9/2021,16
-Columbia,4/10/2021,9
-Columbia,4/11/2021,5
-Columbia,4/12/2021,6
-Columbia,4/13/2021,12
-Columbia,4/14/2021,7
-Columbia,4/15/2021,6
-Columbia,4/16/2021,7
-Columbia,4/17/2021,7
-Columbia,4/18/2021,6
-Columbia,4/19/2021,3
-Columbia,4/20/2021,7
-Columbia,4/21/2021,14
-Columbia,4/22/2021,13
-Columbia,4/23/2021,7
-Columbia,4/24/2021,8
-Columbia,4/25/2021,7
-Columbia,4/26/2021,10
-Coos,3/28/2021,7
-Coos,3/29/2021,5
-Coos,3/30/2021,7
-Coos,3/31/2021,7
-Coos,4/1/2021,12
-Coos,4/3/2021,3
-Coos,4/5/2021,10
-Coos,4/6/2021,5
-Coos,4/7/2021,7
-Coos,4/9/2021,4
-Coos,4/10/2021,5
-Coos,4/11/2021,2
-Coos,4/12/2021,12
-Coos,4/13/2021,4
-Coos,4/14/2021,9
-Coos,4/15/2021,6
-Coos,4/16/2021,2
-Coos,4/17/2021,7
-Coos,4/18/2021,3
-Coos,4/19/2021,6
-Coos,4/20/2021,2
-Coos,4/21/2021,5
-Coos,4/22/2021,6
-Coos,4/23/2021,5
-Coos,4/24/2021,3
-Coos,4/25/2021,5
-Coos,4/26/2021,6
-Crook,3/29/2021,6
-Crook,3/30/2021,2
-Crook,3/31/2021,2
-Crook,4/1/2021,5
-Crook,4/2/2021,2
-Crook,4/4/2021,1
-Crook,4/5/2021,2
-Crook,4/6/2021,1
-Crook,4/7/2021,4
-Crook,4/9/2021,8
-Crook,4/10/2021,3
-Crook,4/12/2021,7
-Crook,4/13/2021,2
-Crook,4/14/2021,5
-Crook,4/15/2021,15
-Crook,4/16/2021,10
-Crook,4/17/2021,1
-Crook,4/18/2021,1
-Crook,4/19/2021,11
-Crook,4/20/2021,4
-Crook,4/21/2021,12
-Crook,4/22/2021,16
-Crook,4/23/2021,8
-Crook,4/24/2021,14
-Crook,4/25/2021,3
-Crook,4/26/2021,9
-Curry,3/29/2021,7
-Curry,3/30/2021,2
-Curry,3/31/2021,4
-Curry,4/1/2021,7
-Curry,4/2/2021,3
-Curry,4/3/2021,2
-Curry,4/5/2021,2
-Curry,4/7/2021,3
-Curry,4/8/2021,7
-Curry,4/9/2021,1
-Curry,4/12/2021,7
-Curry,4/13/2021,3
-Curry,4/14/2021,3
-Curry,4/15/2021,3
-Curry,4/16/2021,2
-Curry,4/17/2021,2
-Curry,4/19/2021,4
-Curry,4/20/2021,5
-Curry,4/21/2021,3
-Curry,4/22/2021,1
-Curry,4/23/2021,7
-Curry,4/26/2021,4
-Deschutes,3/28/2021,14
-Deschutes,3/29/2021,12
-Deschutes,3/30/2021,12
-Deschutes,3/31/2021,30
-Deschutes,4/1/2021,24
-Deschutes,4/2/2021,27
-Deschutes,4/3/2021,31
-Deschutes,4/4/2021,14
-Deschutes,4/5/2021,34
-Deschutes,4/6/2021,31
-Deschutes,4/7/2021,48
-Deschutes,4/8/2021,48
-Deschutes,4/9/2021,70
-Deschutes,4/10/2021,33
-Deschutes,4/11/2021,23
-Deschutes,4/12/2021,34
-Deschutes,4/13/2021,84
-Deschutes,4/14/2021,54
-Deschutes,4/15/2021,59
-Deschutes,4/16/2021,96
-Deschutes,4/17/2021,45
-Deschutes,4/18/2021,44
-Deschutes,4/19/2021,42
-Deschutes,4/20/2021,98
-Deschutes,4/21/2021,57
-Deschutes,4/22/2021,102
-Deschutes,4/23/2021,79
-Deschutes,4/24/2021,84
-Deschutes,4/25/2021,43
-Deschutes,4/26/2021,80
-Douglas,3/28/2021,12
-Douglas,3/29/2021,18
-Douglas,3/30/2021,5
-Douglas,3/31/2021,17
-Douglas,4/1/2021,13
-Douglas,4/2/2021,4
-Douglas,4/3/2021,8
-Douglas,4/4/2021,11
-Douglas,4/5/2021,7
-Douglas,4/6/2021,10
-Douglas,4/7/2021,13
-Douglas,4/8/2021,8
-Douglas,4/9/2021,9
-Douglas,4/10/2021,6
-Douglas,4/11/2021,6
-Douglas,4/12/2021,9
-Douglas,4/13/2021,6
-Douglas,4/14/2021,9
-Douglas,4/15/2021,7
-Douglas,4/16/2021,16
-Douglas,4/17/2021,4
-Douglas,4/18/2021,2
-Douglas,4/19/2021,9
-Douglas,4/20/2021,7
-Douglas,4/21/2021,4
-Douglas,4/22/2021,9
-Douglas,4/23/2021,11
-Douglas,4/24/2021,4
-Douglas,4/25/2021,4
-Douglas,4/26/2021,15
-Gilliam,4/7/2021,1
-Gilliam,4/16/2021,1
-Gilliam,4/19/2021,1
-Grant,3/29/2021,3
-Grant,3/30/2021,6
-Grant,3/31/2021,7
-Grant,4/2/2021,1
-Grant,4/3/2021,2
-Grant,4/5/2021,9
-Grant,4/7/2021,7
-Grant,4/8/2021,24
-Grant,4/9/2021,3
-Grant,4/10/2021,7
-Grant,4/12/2021,5
-Grant,4/13/2021,32
-Grant,4/14/2021,1
-Grant,4/15/2021,25
-Grant,4/16/2021,2
-Grant,4/17/2021,6
-Grant,4/19/2021,8
-Grant,4/20/2021,10
-Grant,4/21/2021,1
-Grant,4/22/2021,6
-Grant,4/24/2021,27
-Grant,4/25/2021,4
-Grant,4/26/2021,7
-Harney,3/28/2021,2
-Harney,3/29/2021,1
-Harney,3/30/2021,1
-Harney,4/1/2021,5
-Harney,4/5/2021,3
-Harney,4/6/2021,1
-Harney,4/8/2021,1
-Harney,4/9/2021,1
-Harney,4/12/2021,3
-Harney,4/13/2021,1
-Harney,4/16/2021,1
-Harney,4/17/2021,1
-Harney,4/19/2021,7
-Harney,4/20/2021,2
-Harney,4/22/2021,2
-Harney,4/23/2021,1
-Harney,4/26/2021,5
-Hood River,4/2/2021,1
-Hood River,4/4/2021,1
-Hood River,4/5/2021,2
-Hood River,4/6/2021,1
-Hood River,4/7/2021,5
-Hood River,4/8/2021,1
-Hood River,4/9/2021,4
-Hood River,4/12/2021,8
-Hood River,4/13/2021,8
-Hood River,4/14/2021,6
-Hood River,4/15/2021,3
-Hood River,4/17/2021,1
-Hood River,4/18/2021,2
-Hood River,4/19/2021,3
-Hood River,4/20/2021,5
-Hood River,4/21/2021,4
-Hood River,4/22/2021,5
-Hood River,4/23/2021,2
-Hood River,4/24/2021,2
-Hood River,4/25/2021,1
-Hood River,4/26/2021,1
-Jackson,3/28/2021,11
-Jackson,3/29/2021,31
-Jackson,3/30/2021,29
-Jackson,3/31/2021,68
-Jackson,4/1/2021,29
-Jackson,4/2/2021,36
-Jackson,4/3/2021,24
-Jackson,4/4/2021,19
-Jackson,4/5/2021,34
-Jackson,4/6/2021,23
-Jackson,4/7/2021,86
-Jackson,4/8/2021,27
-Jackson,4/9/2021,57
-Jackson,4/10/2021,21
-Jackson,4/11/2021,10
-Jackson,4/12/2021,53
-Jackson,4/13/2021,50
-Jackson,4/14/2021,33
-Jackson,4/15/2021,54
-Jackson,4/16/2021,57
-Jackson,4/17/2021,19
-Jackson,4/18/2021,15
-Jackson,4/19/2021,47
-Jackson,4/20/2021,94
-Jackson,4/21/2021,46
-Jackson,4/22/2021,60
-Jackson,4/23/2021,47
-Jackson,4/24/2021,15
-Jackson,4/25/2021,55
-Jackson,4/26/2021,29
-Jefferson,3/29/2021,1
-Jefferson,3/31/2021,2
-Jefferson,4/1/2021,3
-Jefferson,4/2/2021,2
-Jefferson,4/3/2021,3
-Jefferson,4/5/2021,2
-Jefferson,4/6/2021,1
-Jefferson,4/7/2021,3
-Jefferson,4/8/2021,5
-Jefferson,4/9/2021,2
-Jefferson,4/10/2021,8
-Jefferson,4/11/2021,4
-Jefferson,4/12/2021,1
-Jefferson,4/13/2021,3
-Jefferson,4/14/2021,4
-Jefferson,4/15/2021,3
-Jefferson,4/16/2021,6
-Jefferson,4/17/2021,6
-Jefferson,4/18/2021,3
-Jefferson,4/19/2021,1
-Jefferson,4/20/2021,3
-Jefferson,4/21/2021,4
-Jefferson,4/22/2021,9
-Jefferson,4/23/2021,4
-Jefferson,4/24/2021,1
-Jefferson,4/25/2021,2
-Jefferson,4/26/2021,3
-Josephine,3/28/2021,6
-Josephine,3/29/2021,8
-Josephine,3/30/2021,16
-Josephine,3/31/2021,30
-Josephine,4/1/2021,9
-Josephine,4/2/2021,14
-Josephine,4/3/2021,10
-Josephine,4/4/2021,9
-Josephine,4/5/2021,11
-Josephine,4/6/2021,17
-Josephine,4/7/2021,28
-Josephine,4/8/2021,18
-Josephine,4/9/2021,18
-Josephine,4/10/2021,9
-Josephine,4/11/2021,13
-Josephine,4/12/2021,7
-Josephine,4/13/2021,19
-Josephine,4/14/2021,12
-Josephine,4/15/2021,27
-Josephine,4/16/2021,13
-Josephine,4/17/2021,9
-Josephine,4/18/2021,3
-Josephine,4/19/2021,12
-Josephine,4/20/2021,22
-Josephine,4/21/2021,17
-Josephine,4/22/2021,13
-Josephine,4/23/2021,12
-Josephine,4/24/2021,10
-Josephine,4/25/2021,7
-Josephine,4/26/2021,8
-Klamath,3/29/2021,12
-Klamath,3/30/2021,14
-Klamath,3/31/2021,21
-Klamath,4/1/2021,18
-Klamath,4/2/2021,31
-Klamath,4/3/2021,13
-Klamath,4/5/2021,21
-Klamath,4/6/2021,11
-Klamath,4/7/2021,42
-Klamath,4/8/2021,25
-Klamath,4/9/2021,48
-Klamath,4/10/2021,35
-Klamath,4/12/2021,24
-Klamath,4/13/2021,27
-Klamath,4/14/2021,46
-Klamath,4/15/2021,42
-Klamath,4/16/2021,46
-Klamath,4/17/2021,37
-Klamath,4/19/2021,47
-Klamath,4/20/2021,34
-Klamath,4/21/2021,54
-Klamath,4/22/2021,105
-Klamath,4/23/2021,38
-Klamath,4/24/2021,37
-Klamath,4/26/2021,45
-Lake,3/28/2021,1
-Lake,3/29/2021,3
-Lake,3/30/2021,1
-Lake,4/1/2021,1
-Lake,4/2/2021,1
-Lake,4/6/2021,1
-Lake,4/8/2021,2
-Lake,4/12/2021,2
-Lake,4/15/2021,2
-Lake,4/19/2021,1
-Lake,4/20/2021,3
-Lake,4/21/2021,2
-Lake,4/23/2021,1
-Lake,4/24/2021,1
-Lake,4/26/2021,4
-Lane,3/28/2021,18
-Lane,3/29/2021,15
-Lane,3/30/2021,36
-Lane,3/31/2021,30
-Lane,4/1/2021,43
-Lane,4/2/2021,38
-Lane,4/3/2021,30
-Lane,4/4/2021,29
-Lane,4/5/2021,41
-Lane,4/6/2021,39
-Lane,4/7/2021,47
-Lane,4/8/2021,45
-Lane,4/9/2021,66
-Lane,4/10/2021,45
-Lane,4/11/2021,38
-Lane,4/12/2021,40
-Lane,4/13/2021,50
-Lane,4/14/2021,74
-Lane,4/15/2021,55
-Lane,4/16/2021,74
-Lane,4/17/2021,41
-Lane,4/18/2021,64
-Lane,4/19/2021,62
-Lane,4/20/2021,76
-Lane,4/21/2021,54
-Lane,4/22/2021,80
-Lane,4/23/2021,70
-Lane,4/24/2021,37
-Lane,4/25/2021,39
-Lane,4/26/2021,67
-Lincoln,3/28/2021,6
-Lincoln,3/29/2021,1
-Lincoln,3/30/2021,3
-Lincoln,3/31/2021,2
-Lincoln,4/1/2021,10
-Lincoln,4/2/2021,6
-Lincoln,4/3/2021,4
-Lincoln,4/4/2021,5
-Lincoln,4/5/2021,3
-Lincoln,4/6/2021,3
-Lincoln,4/7/2021,6
-Lincoln,4/8/2021,9
-Lincoln,4/9/2021,4
-Lincoln,4/10/2021,6
-Lincoln,4/11/2021,6
-Lincoln,4/12/2021,7
-Lincoln,4/13/2021,6
-Lincoln,4/14/2021,3
-Lincoln,4/15/2021,5
-Lincoln,4/16/2021,5
-Lincoln,4/17/2021,4
-Lincoln,4/18/2021,3
-Lincoln,4/21/2021,7
-Lincoln,4/22/2021,4
-Lincoln,4/23/2021,6
-Lincoln,4/24/2021,6
-Lincoln,4/25/2021,2
-Lincoln,4/26/2021,3
-Linn,3/28/2021,16
-Linn,3/29/2021,8
-Linn,3/30/2021,18
-Linn,3/31/2021,20
-Linn,4/1/2021,13
-Linn,4/2/2021,18
-Linn,4/3/2021,13
-Linn,4/4/2021,14
-Linn,4/5/2021,16
-Linn,4/6/2021,22
-Linn,4/7/2021,19
-Linn,4/8/2021,18
-Linn,4/9/2021,17
-Linn,4/10/2021,13
-Linn,4/11/2021,15
-Linn,4/12/2021,16
-Linn,4/13/2021,23
-Linn,4/14/2021,24
-Linn,4/15/2021,18
-Linn,4/16/2021,38
-Linn,4/17/2021,15
-Linn,4/18/2021,15
-Linn,4/19/2021,15
-Linn,4/20/2021,34
-Linn,4/21/2021,34
-Linn,4/22/2021,22
-Linn,4/23/2021,34
-Linn,4/24/2021,31
-Linn,4/25/2021,16
-Linn,4/26/2021,23
-Malheur,3/29/2021,5
-Malheur,3/30/2021,1
-Malheur,3/31/2021,2
-Malheur,4/1/2021,1
-Malheur,4/2/2021,1
-Malheur,4/3/2021,1
-Malheur,4/5/2021,4
-Malheur,4/6/2021,3
-Malheur,4/7/2021,1
-Malheur,4/8/2021,2
-Malheur,4/9/2021,3
-Malheur,4/10/2021,1
-Malheur,4/12/2021,5
-Malheur,4/13/2021,2
-Malheur,4/14/2021,2
-Malheur,4/15/2021,1
-Malheur,4/16/2021,2
-Malheur,4/17/2021,1
-Malheur,4/19/2021,2
-Malheur,4/20/2021,3
-Malheur,4/21/2021,2
-Malheur,4/22/2021,3
-Malheur,4/23/2021,1
-Malheur,4/24/2021,1
-Malheur,4/26/2021,8
-Marion,3/28/2021,19
-Marion,3/29/2021,18
-Marion,3/30/2021,23
-Marion,3/31/2021,40
-Marion,4/1/2021,38
-Marion,4/2/2021,37
-Marion,4/3/2021,28
-Marion,4/4/2021,30
-Marion,4/5/2021,36
-Marion,4/6/2021,29
-Marion,4/7/2021,46
-Marion,4/8/2021,31
-Marion,4/9/2021,56
-Marion,4/10/2021,46
-Marion,4/11/2021,43
-Marion,4/12/2021,35
-Marion,4/13/2021,83
-Marion,4/14/2021,54
-Marion,4/15/2021,61
-Marion,4/16/2021,79
-Marion,4/17/2021,83
-Marion,4/18/2021,65
-Marion,4/19/2021,21
-Marion,4/20/2021,114
-Marion,4/21/2021,109
-Marion,4/22/2021,120
-Marion,4/23/2021,63
-Marion,4/24/2021,111
-Marion,4/25/2021,79
-Marion,4/26/2021,48
-Morrow,3/29/2021,1
-Morrow,4/2/2021,1
-Morrow,4/3/2021,1
-Morrow,4/6/2021,3
-Morrow,4/7/2021,1
-Morrow,4/8/2021,1
-Morrow,4/10/2021,1
-Morrow,4/11/2021,1
-Morrow,4/13/2021,1
-Morrow,4/14/2021,1
-Morrow,4/15/2021,5
-Morrow,4/16/2021,1
-Morrow,4/19/2021,2
-Morrow,4/20/2021,3
-Morrow,4/21/2021,1
-Morrow,4/22/2021,1
-Morrow,4/24/2021,2
-Multnomah,3/28/2021,34
-Multnomah,3/29/2021,77
-Multnomah,3/30/2021,89
-Multnomah,3/31/2021,69
-Multnomah,4/1/2021,103
-Multnomah,4/2/2021,66
-Multnomah,4/3/2021,79
-Multnomah,4/4/2021,58
-Multnomah,4/5/2021,64
-Multnomah,4/6/2021,86
-Multnomah,4/7/2021,104
-Multnomah,4/8/2021,90
-Multnomah,4/9/2021,122
-Multnomah,4/10/2021,97
-Multnomah,4/11/2021,53
-Multnomah,4/12/2021,79
-Multnomah,4/13/2021,121
-Multnomah,4/14/2021,117
-Multnomah,4/15/2021,84
-Multnomah,4/16/2021,158
-Multnomah,4/17/2021,137
-Multnomah,4/18/2021,131
-Multnomah,4/19/2021,82
-Multnomah,4/20/2021,156
-Multnomah,4/21/2021,192
-Multnomah,4/22/2021,191
-Multnomah,4/23/2021,126
-Multnomah,4/24/2021,163
-Multnomah,4/25/2021,161
-Multnomah,4/26/2021,116
-Polk,3/28/2021,6
-Polk,3/29/2021,11
-Polk,3/30/2021,10
-Polk,3/31/2021,12
-Polk,4/1/2021,16
-Polk,4/2/2021,11
-Polk,4/3/2021,13
-Polk,4/4/2021,13
-Polk,4/5/2021,9
-Polk,4/6/2021,10
-Polk,4/7/2021,14
-Polk,4/8/2021,13
-Polk,4/9/2021,11
-Polk,4/10/2021,10
-Polk,4/11/2021,4
-Polk,4/12/2021,6
-Polk,4/13/2021,19
-Polk,4/14/2021,22
-Polk,4/15/2021,13
-Polk,4/16/2021,12
-Polk,4/17/2021,10
-Polk,4/18/2021,16
-Polk,4/19/2021,7
-Polk,4/20/2021,19
-Polk,4/21/2021,19
-Polk,4/22/2021,14
-Polk,4/23/2021,10
-Polk,4/24/2021,8
-Polk,4/25/2021,11
-Polk,4/26/2021,8
-Sherman,4/5/2021,1
-Sherman,4/6/2021,2
-Sherman,4/13/2021,1
-Tillamook,3/28/2021,3
-Tillamook,3/29/2021,5
-Tillamook,3/30/2021,4
-Tillamook,3/31/2021,10
-Tillamook,4/1/2021,3
-Tillamook,4/2/2021,6
-Tillamook,4/3/2021,4
-Tillamook,4/4/2021,2
-Tillamook,4/5/2021,7
-Tillamook,4/6/2021,4
-Tillamook,4/7/2021,8
-Tillamook,4/8/2021,3
-Tillamook,4/9/2021,6
-Tillamook,4/10/2021,2
-Tillamook,4/11/2021,3
-Tillamook,4/12/2021,2
-Tillamook,4/13/2021,1
-Tillamook,4/14/2021,3
-Tillamook,4/15/2021,3
-Tillamook,4/16/2021,4
-Tillamook,4/17/2021,1
-Tillamook,4/18/2021,1
-Tillamook,4/19/2021,1
-Tillamook,4/20/2021,5
-Tillamook,4/21/2021,1
-Tillamook,4/22/2021,3
-Tillamook,4/23/2021,5
-Tillamook,4/24/2021,2
-Tillamook,4/25/2021,5
-Tillamook,4/26/2021,2
-Umatilla,3/29/2021,9
-Umatilla,3/30/2021,3
-Umatilla,4/1/2021,7
-Umatilla,4/2/2021,6
-Umatilla,4/4/2021,1
-Umatilla,4/5/2021,8
-Umatilla,4/6/2021,5
-Umatilla,4/7/2021,6
-Umatilla,4/8/2021,9
-Umatilla,4/9/2021,3
-Umatilla,4/12/2021,11
-Umatilla,4/13/2021,9
-Umatilla,4/14/2021,9
-Umatilla,4/15/2021,9
-Umatilla,4/16/2021,16
-Umatilla,4/19/2021,15
-Umatilla,4/20/2021,16
-Umatilla,4/21/2021,8
-Umatilla,4/22/2021,13
-Umatilla,4/23/2021,8
-Umatilla,4/26/2021,15
-Union,3/28/2021,5
-Union,3/29/2021,1
-Union,3/30/2021,3
-Union,3/31/2021,4
-Union,4/1/2021,7
-Union,4/2/2021,3
-Union,4/3/2021,4
-Union,4/5/2021,4
-Union,4/7/2021,1
-Union,4/8/2021,3
-Union,4/9/2021,4
-Union,4/10/2021,1
-Union,4/12/2021,1
-Union,4/13/2021,2
-Union,4/14/2021,3
-Union,4/15/2021,2
-Union,4/17/2021,5
-Union,4/19/2021,2
-Union,4/21/2021,2
-Union,4/22/2021,1
-Union,4/23/2021,3
-Union,4/24/2021,1
-Union,4/25/2021,1
-Wallowa,3/29/2021,2
-Wallowa,4/1/2021,1
-Wallowa,4/3/2021,1
-Wallowa,4/6/2021,3
-Wallowa,4/8/2021,1
-Wallowa,4/10/2021,1
-Wallowa,4/19/2021,1
-Wallowa,4/20/2021,1
-Wallowa,4/22/2021,1
-Wallowa,4/23/2021,1
-Wallowa,4/26/2021,2
-Wasco,3/30/2021,1
-Wasco,4/2/2021,1
-Wasco,4/3/2021,1
-Wasco,4/4/2021,1
-Wasco,4/5/2021,1
-Wasco,4/6/2021,3
-Wasco,4/7/2021,1
-Wasco,4/8/2021,1
-Wasco,4/9/2021,6
-Wasco,4/11/2021,3
-Wasco,4/12/2021,3
-Wasco,4/13/2021,8
-Wasco,4/14/2021,8
-Wasco,4/15/2021,6
-Wasco,4/16/2021,3
-Wasco,4/17/2021,2
-Wasco,4/18/2021,7
-Wasco,4/19/2021,3
-Wasco,4/20/2021,3
-Wasco,4/21/2021,16
-Wasco,4/22/2021,3
-Wasco,4/23/2021,6
-Wasco,4/24/2021,3
-Wasco,4/25/2021,3
-Wasco,4/26/2021,4
-Washington,3/29/2021,74
-Washington,3/30/2021,47
-Washington,3/31/2021,48
-Washington,4/1/2021,52
-Washington,4/2/2021,49
-Washington,4/3/2021,46
-Washington,4/4/2021,1
-Washington,4/5/2021,96
-Washington,4/6/2021,60
-Washington,4/7/2021,69
-Washington,4/8/2021,80
-Washington,4/9/2021,87
-Washington,4/10/2021,42
-Washington,4/11/2021,4
-Washington,4/12/2021,94
-Washington,4/13/2021,84
-Washington,4/14/2021,100
-Washington,4/15/2021,69
-Washington,4/16/2021,104
-Washington,4/17/2021,84
-Washington,4/18/2021,2
-Washington,4/19/2021,83
-Washington,4/20/2021,130
-Washington,4/21/2021,131
-Washington,4/22/2021,102
-Washington,4/23/2021,116
-Washington,4/24/2021,81
-Washington,4/25/2021,66
-Washington,4/26/2021,114
-Washington,4/27/2021,4
-Wheeler,4/19/2021,1
-Yamhill,3/28/2021,7
-Yamhill,3/29/2021,6
-Yamhill,3/30/2021,5
-Yamhill,3/31/2021,9
-Yamhill,4/1/2021,14
-Yamhill,4/2/2021,10
-Yamhill,4/3/2021,6
-Yamhill,4/4/2021,12
-Yamhill,4/5/2021,2
-Yamhill,4/6/2021,11
-Yamhill,4/7/2021,9
-Yamhill,4/8/2021,4
-Yamhill,4/9/2021,8
-Yamhill,4/10/2021,8
-Yamhill,4/11/2021,7
-Yamhill,4/12/2021,5
-Yamhill,4/13/2021,9
-Yamhill,4/14/2021,13
-Yamhill,4/15/2021,8
-Yamhill,4/16/2021,16
-Yamhill,4/17/2021,13
-Yamhill,4/18/2021,15
-Yamhill,4/19/2021,9
-Yamhill,4/20/2021,12
-Yamhill,4/21/2021,20
-Yamhill,4/22/2021,17
-Yamhill,4/23/2021,23
-Yamhill,4/24/2021,21
-Yamhill,4/25/2021,8
-Yamhill,4/26/2021,11
+County,Measure Names,Measure Values
+All,"Cases per 100,000","4,317.727691"
+All,Case Count,"182,916"
+All,Deaths,"2,490"
+All,Positive Tests ,"264,004"
+All,Negative Tests ,"4,386,909"
+All,Total Tests ,"4,650,913"
+All,"Tests per 100,000 ","109,784.687216"
+Baker,"Cases per 100,000","5,416.815317"
+Baker,Case Count,911
+Baker,Deaths,14
+Baker,Positive Tests ,"1,825"
+Baker,Negative Tests ,"11,365"
+Baker,Total Tests ,"13,190"
+Baker,"Tests per 100,000 ","78,427.874896"
+Benton,"Cases per 100,000","3,044.754607"
+Benton,Case Count,"2,873"
+Benton,Deaths,19
+Benton,Positive Tests ,"4,429"
+Benton,Negative Tests ,"135,762"
+Benton,Total Tests ,"140,191"
+Benton,"Tests per 100,000 ","148,571.943323"
+Clackamas,"Cases per 100,000","3,826.260699"
+Clackamas,Case Count,"16,201"
+Clackamas,Deaths,207
+Clackamas,Positive Tests ,"24,790"
+Clackamas,Negative Tests ,"429,786"
+Clackamas,Total Tests ,"454,576"
+Clackamas,"Tests per 100,000 ","107,359.192851"
+Clatsop,"Cases per 100,000","2,374.656768"
+Clatsop,Case Count,934
+Clatsop,Deaths,8
+Clatsop,Positive Tests ,"1,641"
+Clatsop,Negative Tests ,"33,633"
+Clatsop,Total Tests ,"35,274"
+Clatsop,"Tests per 100,000 ","89,682.701109"
+Columbia,"Cases per 100,000","3,088.327298"
+Columbia,Case Count,"1,629"
+Columbia,Deaths,26
+Columbia,Positive Tests ,"2,214"
+Columbia,Negative Tests ,"41,160"
+Columbia,Total Tests ,"43,374"
+Columbia,"Tests per 100,000 ","82,230.26902"
+Coos,"Cases per 100,000","3,190.178233"
+Coos,Case Count,"2,019"
+Coos,Deaths,32
+Coos,Positive Tests ,"2,473"
+Coos,Negative Tests ,"45,411"
+Coos,Total Tests ,"47,884"
+Coos,"Tests per 100,000 ","75,660.472759"
+Crook,"Cases per 100,000","4,125.250629"
+Crook,Case Count,967
+Crook,Deaths,19
+Crook,Positive Tests ,"1,287"
+Crook,Negative Tests ,"17,610"
+Crook,Total Tests ,"18,897"
+Crook,"Tests per 100,000 ","80,615.161469"
+Curry,"Cases per 100,000","2,734.782609"
+Curry,Case Count,629
+Curry,Deaths,9
+Curry,Positive Tests ,524
+Curry,Negative Tests ,"11,154"
+Curry,Total Tests ,"11,678"
+Curry,"Tests per 100,000 ","50,773.913043"
+Deschutes,"Cases per 100,000","4,052.828742"
+Deschutes,Case Count,"7,822"
+Deschutes,Deaths,73
+Deschutes,Positive Tests ,"10,009"
+Deschutes,Negative Tests ,"184,631"
+Deschutes,Total Tests ,"194,640"
+Deschutes,"Tests per 100,000 ","100,849.218398"
+Douglas,"Cases per 100,000","2,779.485261"
+Douglas,Case Count,"3,120"
+Douglas,Deaths,69
+Douglas,Positive Tests ,"3,540"
+Douglas,Negative Tests ,"79,898"
+Douglas,Total Tests ,"83,438"
+Douglas,"Tests per 100,000 ","74,331.631789"
+Gilliam,"Cases per 100,000","2,862.882973"
+Gilliam,Case Count,57
+Gilliam,Deaths,1
+Gilliam,Positive Tests ,44
+Gilliam,Negative Tests ,"1,201"
+Gilliam,Total Tests ,"1,245"
+Gilliam,"Tests per 100,000 ","62,531.391261"
+Grant,"Cases per 100,000","6,521.73913"
+Grant,Case Count,480
+Grant,Deaths,4
+Grant,Positive Tests ,369
+Grant,Negative Tests ,"5,863"
+Grant,Total Tests ,"6,232"
+Grant,"Tests per 100,000 ","84,673.913043"
+Harney,"Cases per 100,000","4,402.173913"
+Harney,Case Count,324
+Harney,Deaths,8
+Harney,Positive Tests ,375
+Harney,Negative Tests ,"4,128"
+Harney,Total Tests ,"4,503"
+Harney,"Tests per 100,000 ","61,182.065217"
+Hood River,"Cases per 100,000","4,521.725478"
+Hood River,Case Count,"1,152"
+Hood River,Deaths,30
+Hood River,Positive Tests ,"1,632"
+Hood River,Negative Tests ,"31,366"
+Hood River,Total Tests ,"32,998"
+Hood River,"Tests per 100,000 ","129,520.744201"
+Jackson,"Cases per 100,000","4,694.292557"
+Jackson,Case Count,"10,388"
+Jackson,Deaths,130
+Jackson,Positive Tests ,"15,664"
+Jackson,Negative Tests ,"212,199"
+Jackson,Total Tests ,"227,863"
+Jackson,"Tests per 100,000 ","102,970.310452"
+Jefferson,"Cases per 100,000","8,828.957302"
+Jefferson,Case Count,"2,105"
+Jefferson,Deaths,32
+Jefferson,Positive Tests ,"1,934"
+Jefferson,Negative Tests ,"19,183"
+Jefferson,Total Tests ,"21,117"
+Jefferson,"Tests per 100,000 ","88,570.589716"
+Josephine,"Cases per 100,000","3,673.732868"
+Josephine,Case Count,"3,187"
+Josephine,Deaths,65
+Josephine,Positive Tests ,"3,670"
+Josephine,Negative Tests ,"70,663"
+Josephine,Total Tests ,"74,333"
+Josephine,"Tests per 100,000 ","85,685.467603"
+Klamath,"Cases per 100,000","5,726.814102"
+Klamath,Case Count,"3,905"
+Klamath,Deaths,59
+Klamath,Positive Tests ,"4,325"
+Klamath,Negative Tests ,"47,456"
+Klamath,Total Tests ,"51,781"
+Klamath,"Tests per 100,000 ","75,938.581569"
+Lake,"Cases per 100,000","5,308.748917"
+Lake,Case Count,429
+Lake,Deaths,7
+Lake,Positive Tests ,417
+Lake,Negative Tests ,"5,125"
+Lake,Total Tests ,"5,542"
+Lake,"Tests per 100,000 ","68,580.62121"
+Lane,"Cases per 100,000","3,218.705708"
+Lane,Case Count,"12,195"
+Lane,Deaths,144
+Lane,Positive Tests ,"14,544"
+Lane,Negative Tests ,"470,087"
+Lane,Total Tests ,"484,631"
+Lane,"Tests per 100,000 ","127,911.813534"
+Lincoln,"Cases per 100,000","2,768.338168"
+Lincoln,Case Count,"1,336"
+Lincoln,Deaths,20
+Lincoln,Positive Tests ,"2,644"
+Lincoln,Negative Tests ,"42,170"
+Lincoln,Total Tests ,"44,814"
+Lincoln,"Tests per 100,000 ","92,859.510982"
+Linn,"Cases per 100,000","3,499.857761"
+Linn,Case Count,"4,429"
+Linn,Deaths,65
+Linn,Positive Tests ,"8,255"
+Linn,Negative Tests ,"134,985"
+Linn,Total Tests ,"143,240"
+Linn,"Tests per 100,000 ","113,190.25192"
+Malheur,"Cases per 100,000","10,780.181699"
+Malheur,Case Count,"3,453"
+Malheur,Deaths,59
+Malheur,Positive Tests ,"5,085"
+Malheur,Negative Tests ,"25,596"
+Malheur,Total Tests ,"30,681"
+Malheur,"Tests per 100,000 ","95,785.332959"
+Marion,"Cases per 100,000","6,045.818824"
+Marion,Case Count,"21,025"
+Marion,Deaths,300
+Marion,Positive Tests ,"31,470"
+Marion,Negative Tests ,"339,050"
+Marion,Total Tests ,"370,520"
+Marion,"Tests per 100,000 ","106,544.437128"
+Morrow,"Cases per 100,000","8,586.296618"
+Morrow,Case Count,"1,089"
+Morrow,Deaths,15
+Morrow,Positive Tests ,"1,311"
+Morrow,Negative Tests ,"7,232"
+Morrow,Total Tests ,"8,543"
+Morrow,"Tests per 100,000 ","67,357.880628"
+Multnomah,"Cases per 100,000","4,428.218515"
+Multnomah,Case Count,"36,388"
+Multnomah,Deaths,574
+Multnomah,Positive Tests ,"54,385"
+Multnomah,Negative Tests ,"1,015,369"
+Multnomah,Total Tests ,"1,069,754"
+Multnomah,"Tests per 100,000 ","130,183.150183"
+Polk,"Cases per 100,000","4,300.543747"
+Polk,Case Count,"3,567"
+Polk,Deaths,52
+Polk,Positive Tests ,"4,698"
+Polk,Negative Tests ,"69,075"
+Polk,Total Tests ,"73,773"
+Polk,"Tests per 100,000 ","88,944.214702"
+Sherman,"Cases per 100,000","3,216.704289"
+Sherman,Case Count,57
+Sherman,Deaths,1
+Sherman,Positive Tests ,67
+Sherman,Negative Tests ,"1,370"
+Sherman,Total Tests ,"1,437"
+Sherman,"Tests per 100,000 ","81,094.808126"
+Tillamook,"Cases per 100,000","2,302.147413"
+Tillamook,Case Count,610
+Tillamook,Deaths,3
+Tillamook,Positive Tests ,605
+Tillamook,Negative Tests ,"14,550"
+Tillamook,Total Tests ,"15,155"
+Tillamook,"Tests per 100,000 ","57,195.154168"
+Umatilla,"Cases per 100,000","9,932.232627"
+Umatilla,Case Count,"8,061"
+Umatilla,Deaths,84
+Umatilla,Positive Tests ,"9,005"
+Umatilla,Negative Tests ,"64,653"
+Umatilla,Total Tests ,"73,658"
+Umatilla,"Tests per 100,000 ","90,756.53031"
+Union,"Cases per 100,000","5,316.493424"
+Union,Case Count,"1,427"
+Union,Deaths,23
+Union,Positive Tests ,"1,798"
+Union,Negative Tests ,"20,809"
+Union,Total Tests ,"22,607"
+Union,"Tests per 100,000 ","84,225.624977"
+Wallowa,"Cases per 100,000","2,307.369599"
+Wallowa,Case Count,165
+Wallowa,Deaths,5
+Wallowa,Positive Tests ,164
+Wallowa,Negative Tests ,"3,119"
+Wallowa,Total Tests ,"3,283"
+Wallowa,"Tests per 100,000 ","45,909.662984"
+Wasco,"Cases per 100,000","4,919.778243"
+Wasco,Case Count,"1,340"
+Wasco,Deaths,28
+Wasco,Positive Tests ,"1,667"
+Wasco,Negative Tests ,"33,510"
+Wasco,Total Tests ,"35,177"
+Wasco,"Tests per 100,000 ","129,151.521827"
+Washington,"Cases per 100,000","3,973.035979"
+Washington,Case Count,"24,371"
+Washington,Deaths,229
+Washington,Positive Tests ,"40,167"
+Washington,Negative Tests ,"624,273"
+Washington,Total Tests ,"664,440"
+Washington,"Tests per 100,000 ","108,319.068812"
+Wheeler,"Cases per 100,000","1,808.066759"
+Wheeler,Case Count,26
+Wheeler,Deaths,1
+Wheeler,Positive Tests ,28
+Wheeler,Negative Tests ,688
+Wheeler,Total Tests ,716
+Wheeler,"Tests per 100,000 ","49,791.376912"
+Yamhill,"Cases per 100,000","3,928.336773"
+Yamhill,Case Count,"4,245"
+Yamhill,Deaths,75
+Yamhill,Positive Tests ,"6,937"
+Yamhill,Negative Tests ,"132,756"
+Yamhill,Total Tests ,"139,693"
+Yamhill,"Tests per 100,000 ","129,272.355429"
